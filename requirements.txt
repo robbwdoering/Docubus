@@ -1,0 +1,6 @@
+boto3==1.9.216
+google-api-python-client==1.7.10
+google-auth==1.5.1
+google-auth-oauthlib==0.4.0
+ask-sdk-core==1.11.0
+
